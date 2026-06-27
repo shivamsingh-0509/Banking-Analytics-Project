@@ -179,6 +179,9 @@ Banking-Analytics-Project
 4. Explore all dashboard pages using the interactive slicers.
 
 ---
+## Dataset
+
+The dataset used in this project is a synthetic banking dataset generated for learning and portfolio purposes using Python. It is not based on any real customer or banking information.
 
 # 👨‍💻 Author
 
