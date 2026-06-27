@@ -33,7 +33,7 @@ The dashboard consists of **5 interactive report pages** with slicers for dynami
 
 ## 1️⃣ Executive Overview
 
-![Executive Overview](Dashboard_Screenshots/Page1_Executive_Overview.png)
+![Executive Overview](Dataset_Screenshots/Page1_Executive_Overview.png)
 
 ### KPIs
 - Total Customers
@@ -53,7 +53,7 @@ The dashboard consists of **5 interactive report pages** with slicers for dynami
 
 ## 2️⃣ Customer Analytics
 
-![Customer Analytics](Dashboard_Screenshots/Page2_Customer_Analytics.png)
+![Customer Analytics](Dataset_Screenshots/Page2_Customer_Analytics.png)
 
 ### KPIs
 - Total Customers
@@ -72,7 +72,7 @@ The dashboard consists of **5 interactive report pages** with slicers for dynami
 
 ## 3️⃣ Transaction Analytics
 
-![Transaction Analytics](Dashboard_Screenshots/Page3_Transaction_Analytics.png)
+![Transaction Analytics](Dataset_Screenshots/Page3_Transaction_Analytics.png)
 
 ### KPIs
 - Total Transactions
@@ -91,7 +91,7 @@ The dashboard consists of **5 interactive report pages** with slicers for dynami
 
 ## 4️⃣ Loan Analytics
 
-![Loan Analytics](Dashboard_Screenshots/Page4_Loan_Analytics.png)
+![Loan Analytics](Dataset_Screenshots/Page4_Loan_Analytics.png)
 
 ### KPIs
 - Total Loans
@@ -110,7 +110,7 @@ The dashboard consists of **5 interactive report pages** with slicers for dynami
 
 ## 5️⃣ Risk Analytics
 
-![Risk Analytics](Dashboard_Screenshots/Page5_Risk_Analytics.png)
+![Risk Analytics](Dataset_Screenshots/Page5_Risk_Analytics.png)
 
 ### KPIs
 - NPA %
@@ -158,7 +158,7 @@ Banking-Analytics-Project
 │
 ├── Banking_Project.pbix
 ├── README.md
-├── Dashboard_Screenshots
+├── Dataset_Screenshots
 │   ├── Page1_Executive_Overview.png
 │   ├── Page2_Customer_Analytics.png
 │   ├── Page3_Transaction_Analytics.png
